@@ -1,8 +1,7 @@
 # Armory packs, first batch
 
-**Private. Shared with colleagues only.** These packs contain models, textures and sounds
-from other games (Counter-Strike 2 and Deadlock). Don't upload, re-host or share them
-anywhere.
+**Not my assets, treat as such.** These packs contain models, textures and sounds
+from other games (Counter-Strike 2 and Deadlock). Don't upload, re-host or share.
 
 Six packs for the [Armory](https://github.com/corporateweapon/bl2-armory): four weapons and
 two character skins. They're on the [Releases](../../releases) page.
